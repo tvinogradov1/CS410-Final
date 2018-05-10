@@ -1,0 +1,10 @@
+prefix = "."
+dataset = "songs"
+corpus = "line.toml"
+index = "songs_data.dat"
+stop-words = "lemur-stopwords.txt"
+
+[[analyzers]]
+method = "ngram-word"
+ngram = 1
+filter = "default-unigram-chain"

@@ -1,10 +1,12 @@
-# CS410-Final
-English Song Lyrics Crawler
+CS410 Song Crawler
+===
 
-To run, execute ./run.sh inside terminal.
+Usage
+---
+run the ./run.sh file. It would generate data with all the .dat suffix saved in
+pickle. 
 
-## Requirements
-- BeautifulSoup
-- gensim
-- NLTK
-- enchant
+Requirement
+---
+Beautiful Soup
+
