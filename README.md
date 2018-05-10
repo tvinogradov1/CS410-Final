@@ -3,8 +3,8 @@ English Song Lyrics Crawler
 
 To run, execute ./run.sh inside terminal.
 
-# Requirements
-BeautifulSoup
-gensim
-NLTK
-enchant
+## Requirements
+- BeautifulSoup
+- gensim
+- NLTK
+- enchant
