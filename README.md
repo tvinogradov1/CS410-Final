@@ -1,12 +1,12 @@
 CS410 Song Crawler
 ===
 
-Usage
----
-run the ./run.sh file. It would generate data with all the .dat suffix saved in
-pickle. 
+Run ./run.sh executable in terminal. 
 
 Requirement
 ---
-Beautiful Soup
+- Beautiful Soup
+- gensim
+- NLTK
+- enchant
 
