@@ -1,4 +1,4 @@
-CS410 Song Crawler
+CS410 English Song Lyrics Crawler
 ===
 
 Run ./run.sh executable in terminal. 
