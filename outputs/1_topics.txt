@@ -1,0 +1,3 @@
+Topic 0
+0.019*"know" + 0.014*"love" + 0.011*"make" + 0.011*"come" + 0.009*"time" + 0.009*"take" + 0.008*"feel" + 0.007*"say" + 0.007*"baby" + 0.007*"back" + 0.007*"way" + 0.006*"cause" + 0.006*"tell" + 0.006*"life" + 0.005*"keep" + 0.005*"think" + 0.005*"give" + 0.005*"girl" + 0.005*"thing" + 0.005*"right"
+

@@ -1,0 +1,18 @@
+Topic 0
+0.022*"normal" + 0.012*"god" + 0.012*"life" + 0.010*"black" + 0.009*"people" + 0.009*"blood" + 0.008*"soul" + 0.008*"die" + 0.007*"death" + 0.007*"world" + 0.007*"dead" + 0.006*"live" + 0.006*"burn" + 0.006*"kill" + 0.006*"born" + 0.006*"hell" + 0.006*"free" + 0.006*"fire" + 0.005*"fight" + 0.005*"war"
+
+Topic 1
+0.021*"love" + 0.018*"time" + 0.016*"heart" + 0.014*"life" + 0.013*"feel" + 0.013*"away" + 0.013*"take" + 0.010*"dream" + 0.010*"world" + 0.010*"eye" + 0.009*"find" + 0.009*"night" + 0.008*"know" + 0.007*"hold" + 0.007*"back" + 0.007*"light" + 0.007*"fall" + 0.006*"lost" + 0.006*"sun" + 0.006*"long"
+
+Topic 2
+0.115*"come" + 0.105*"non" + 0.040*"con" + 0.016*"solo" + 0.015*"son" + 0.013*"chi" + 0.012*"tempo" + 0.012*"poi" + 0.012*"gimme" + 0.011*"dove" + 0.011*"fare" + 0.011*"sin" + 0.009*"shall" + 0.008*"vita" + 0.008*"tutti" + 0.007*"era" + 0.006*"stare" + 0.006*"dire" + 0.006*"due" + 0.005*"para"
+
+Topic 3
+0.055*"know" + 0.032*"love" + 0.031*"make" + 0.023*"baby" + 0.022*"say" + 0.018*"girl" + 0.017*"tell" + 0.017*"take" + 0.017*"think" + 0.016*"feel" + 0.016*"way" + 0.016*"time" + 0.015*"come" + 0.014*"cause" + 0.013*"gotta" + 0.013*"thing" + 0.013*"give" + 0.011*"good" + 0.011*"right" + 0.009*"keep"
+
+Topic 4
+0.013*"man" + 0.013*"old" + 0.008*"new" + 0.007*"two" + 0.006*"went" + 0.006*"took" + 0.006*"good" + 0.006*"back" + 0.006*"song" + 0.006*"home" + 0.006*"came" + 0.006*"red" + 0.005*"night" + 0.005*"made" + 0.005*"blue" + 0.005*"left" + 0.005*"white" + 0.005*"look" + 0.005*"heard" + 0.005*"young"
+
+Topic 5
+0.011*"back" + 0.011*"cause" + 0.011*"shit" + 0.011*"fuck" + 0.010*"put" + 0.010*"hit" + 0.009*"rock" + 0.008*"big" + 0.007*"make" + 0.007*"bitch" + 0.007*"keep" + 0.007*"take" + 0.007*"real" + 0.006*"come" + 0.006*"money" + 0.006*"wit" + 0.005*"know" + 0.005*"beat" + 0.005*"man" + 0.005*"hot"
+

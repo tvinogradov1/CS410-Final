@@ -1,0 +1,21 @@
+Topic 0
+0.140*"come" + 0.140*"non" + 0.053*"con" + 0.021*"solo" + 0.017*"chi" + 0.017*"bye" + 0.016*"tempo" + 0.016*"poi" + 0.015*"son" + 0.014*"dove" + 0.014*"fare" + 0.011*"vita" + 0.010*"tutti" + 0.010*"sin" + 0.010*"era" + 0.008*"dire" + 0.008*"iron" + 0.008*"due" + 0.008*"stare" + 0.007*"wonderful"
+
+Topic 1
+0.059*"know" + 0.056*"love" + 0.042*"make" + 0.031*"baby" + 0.026*"feel" + 0.025*"take" + 0.019*"say" + 0.018*"come" + 0.018*"girl" + 0.018*"give" + 0.017*"tell" + 0.017*"way" + 0.016*"gotta" + 0.014*"cause" + 0.014*"time" + 0.012*"keep" + 0.011*"right" + 0.010*"thing" + 0.009*"think" + 0.009*"good"
+
+Topic 2
+0.010*"blood" + 0.010*"black" + 0.010*"dead" + 0.009*"death" + 0.008*"die" + 0.008*"god" + 0.008*"kill" + 0.007*"life" + 0.007*"soul" + 0.006*"burn" + 0.006*"war" + 0.006*"cut" + 0.006*"hell" + 0.005*"bit" + 0.005*"born" + 0.005*"fight" + 0.005*"make" + 0.004*"people" + 0.004*"pol" + 0.004*"man"
+
+Topic 3
+0.013*"cause" + 0.012*"back" + 0.011*"put" + 0.010*"shit" + 0.010*"fuck" + 0.010*"know" + 0.009*"make" + 0.009*"hit" + 0.008*"rock" + 0.008*"keep" + 0.007*"come" + 0.007*"bitch" + 0.007*"real" + 0.007*"take" + 0.006*"big" + 0.006*"money" + 0.006*"better" + 0.006*"wit" + 0.005*"man" + 0.005*"gotta"
+
+Topic 4
+0.022*"time" + 0.022*"know" + 0.018*"think" + 0.016*"say" + 0.015*"thing" + 0.015*"did" + 0.014*"back" + 0.014*"normal" + 0.013*"life" + 0.012*"thought" + 0.011*"didn't" + 0.010*"way" + 0.010*"gone" + 0.009*"long" + 0.008*"made" + 0.008*"left" + 0.008*"away" + 0.007*"remember" + 0.007*"look" + 0.007*"tell"
+
+Topic 5
+0.014*"world" + 0.013*"heart" + 0.013*"dream" + 0.012*"time" + 0.012*"feel" + 0.012*"life" + 0.012*"eye" + 0.012*"night" + 0.012*"away" + 0.010*"take" + 0.010*"sun" + 0.009*"love" + 0.009*"light" + 0.009*"come" + 0.008*"fall" + 0.007*"hear" + 0.007*"find" + 0.006*"sky" + 0.006*"turn" + 0.006*"star"
+
+Topic 6
+0.019*"man" + 0.015*"old" + 0.014*"new" + 0.012*"good" + 0.011*"girl" + 0.008*"big" + 0.008*"woman" + 0.007*"young" + 0.007*"boy" + 0.007*"bad" + 0.007*"blue" + 0.007*"song" + 0.007*"people" + 0.006*"home" + 0.006*"two" + 0.006*"red" + 0.006*"city" + 0.005*"white" + 0.005*"look" + 0.005*"pretty"
+

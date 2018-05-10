@@ -1,0 +1,24 @@
+Topic 0
+0.012*"kill" + 0.011*"blood" + 0.010*"die" + 0.009*"born" + 0.008*"god" + 0.008*"mother" + 0.008*"hell" + 0.008*"death" + 0.007*"man" + 0.007*"war" + 0.007*"bit" + 0.007*"burn" + 0.006*"life" + 0.006*"men" + 0.005*"bye" + 0.005*"people" + 0.005*"cut" + 0.005*"gun" + 0.005*"pol" + 0.005*"son"
+
+Topic 1
+0.030*"non" + 0.028*"come" + 0.020*"normal" + 0.019*"shit" + 0.019*"fuck" + 0.014*"cause" + 0.013*"bitch" + 0.011*"con" + 0.011*"big" + 0.010*"wit" + 0.010*"real" + 0.010*"money" + 0.009*"hit" + 0.007*"gotta" + 0.006*"rap" + 0.006*"bout" + 0.005*"pop" + 0.005*"game" + 0.005*"man" + 0.005*"hoe"
+
+Topic 2
+0.111*"love" + 0.056*"baby" + 0.043*"girl" + 0.039*"come" + 0.038*"know" + 0.032*"make" + 0.027*"feel" + 0.025*"give" + 0.021*"gotta" + 0.017*"good" + 0.015*"take" + 0.014*"night" + 0.013*"boy" + 0.013*"way" + 0.013*"tell" + 0.010*"sweet" + 0.010*"heart" + 0.009*"hold" + 0.009*"kiss" + 0.008*"ooh"
+
+Topic 3
+0.022*"did" + 0.021*"man" + 0.017*"didn't" + 0.016*"made" + 0.015*"thought" + 0.014*"took" + 0.012*"came" + 0.012*"told" + 0.012*"went" + 0.012*"good" + 0.010*"bad" + 0.009*"gave" + 0.009*"left" + 0.009*"knew" + 0.008*"remember" + 0.008*"life" + 0.008*"heard" + 0.008*"friend" + 0.007*"young" + 0.007*"long"
+
+Topic 4
+0.016*"new" + 0.015*"black" + 0.014*"back" + 0.012*"old" + 0.010*"white" + 0.009*"dead" + 0.008*"head" + 0.008*"red" + 0.007*"street" + 0.007*"blue" + 0.007*"city" + 0.007*"take" + 0.006*"home" + 0.005*"big" + 0.004*"town" + 0.004*"water" + 0.004*"mile" + 0.004*"ring" + 0.004*"walk" + 0.004*"field"
+
+Topic 5
+0.014*"heart" + 0.014*"dream" + 0.014*"world" + 0.014*"come" + 0.014*"life" + 0.012*"away" + 0.012*"eye" + 0.011*"night" + 0.011*"time" + 0.011*"sun" + 0.011*"feel" + 0.009*"light" + 0.008*"fall" + 0.008*"soul" + 0.007*"hear" + 0.007*"tear" + 0.007*"lost" + 0.007*"sky" + 0.006*"star" + 0.006*"cry"
+
+Topic 6
+0.034*"make" + 0.021*"put" + 0.017*"rock" + 0.012*"stop" + 0.012*"right" + 0.011*"move" + 0.011*"back" + 0.011*"beat" + 0.011*"body" + 0.011*"dance" + 0.010*"hand" + 0.010*"ready" + 0.010*"play" + 0.009*"hit" + 0.009*"take" + 0.009*"hot" + 0.009*"watch" + 0.009*"turn" + 0.009*"keep" + 0.009*"roll"
+
+Topic 7
+0.059*"know" + 0.029*"say" + 0.027*"time" + 0.023*"take" + 0.021*"think" + 0.019*"way" + 0.017*"thing" + 0.016*"make" + 0.016*"keep" + 0.016*"tell" + 0.016*"cause" + 0.014*"back" + 0.012*"look" + 0.011*"find" + 0.011*"feel" + 0.011*"try" + 0.010*"life" + 0.009*"right" + 0.008*"better" + 0.008*"gone"
+

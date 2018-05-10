@@ -1,0 +1,27 @@
+Topic 0
+0.011*"light" + 0.010*"sun" + 0.010*"eye" + 0.009*"soul" + 0.008*"away" + 0.008*"black" + 0.007*"dream" + 0.007*"hear" + 0.007*"cold" + 0.007*"sky" + 0.006*"night" + 0.006*"dark" + 0.006*"heart" + 0.006*"fire" + 0.006*"lost" + 0.006*"time" + 0.005*"fear" + 0.005*"wind" + 0.005*"fly" + 0.005*"fall"
+
+Topic 1
+0.025*"life" + 0.016*"live" + 0.015*"world" + 0.013*"people" + 0.011*"god" + 0.010*"die" + 0.009*"run" + 0.009*"free" + 0.009*"make" + 0.009*"kill" + 0.008*"man" + 0.007*"born" + 0.006*"mother" + 0.006*"war" + 0.006*"death" + 0.006*"cut" + 0.006*"time" + 0.005*"father" + 0.005*"living" + 0.005*"try"
+
+Topic 2
+0.100*"love" + 0.044*"baby" + 0.038*"make" + 0.035*"feel" + 0.027*"know" + 0.023*"give" + 0.021*"come" + 0.021*"take" + 0.019*"heart" + 0.016*"night" + 0.012*"hold" + 0.012*"way" + 0.010*"dream" + 0.009*"girl" + 0.009*"please" + 0.009*"time" + 0.009*"sweet" + 0.008*"tonight" + 0.008*"kiss" + 0.008*"tell"
+
+Topic 3
+0.015*"new" + 0.013*"old" + 0.011*"two" + 0.007*"street" + 0.007*"take" + 0.007*"look" + 0.007*"white" + 0.007*"three" + 0.007*"red" + 0.006*"bit" + 0.006*"drink" + 0.006*"home" + 0.006*"back" + 0.005*"city" + 0.005*"kid" + 0.005*"house" + 0.005*"gimme" + 0.005*"man" + 0.005*"dirty" + 0.005*"car"
+
+Topic 4
+0.029*"did" + 0.022*"thought" + 0.019*"didn't" + 0.017*"took" + 0.017*"made" + 0.016*"came" + 0.016*"remember" + 0.015*"left" + 0.014*"went" + 0.013*"knew" + 0.012*"wish" + 0.012*"told" + 0.011*"back" + 0.011*"found" + 0.011*"gave" + 0.010*"felt" + 0.009*"time" + 0.009*"tried" + 0.008*"heard" + 0.008*"wasn't"
+
+Topic 5
+0.059*"know" + 0.029*"say" + 0.028*"time" + 0.023*"think" + 0.019*"take" + 0.018*"thing" + 0.018*"way" + 0.018*"tell" + 0.015*"keep" + 0.014*"cause" + 0.014*"gotta" + 0.013*"make" + 0.012*"look" + 0.012*"back" + 0.012*"find" + 0.011*"right" + 0.011*"try" + 0.010*"better" + 0.009*"feel" + 0.008*"life"
+
+Topic 6
+0.017*"cause" + 0.016*"know" + 0.015*"make" + 0.013*"put" + 0.013*"shit" + 0.013*"fuck" + 0.012*"back" + 0.012*"hit" + 0.010*"come" + 0.009*"keep" + 0.009*"gotta" + 0.009*"real" + 0.009*"bitch" + 0.007*"wit" + 0.007*"give" + 0.007*"take" + 0.006*"better" + 0.006*"big" + 0.006*"beat" + 0.006*"hot"
+
+Topic 7
+0.168*"come" + 0.145*"non" + 0.055*"con" + 0.022*"solo" + 0.018*"chi" + 0.017*"tempo" + 0.017*"poi" + 0.016*"pol" + 0.015*"dove" + 0.015*"fare" + 0.015*"son" + 0.011*"vita" + 0.011*"tutti" + 0.010*"era" + 0.009*"sin" + 0.008*"dire" + 0.008*"stare" + 0.007*"para" + 0.007*"sole" + 0.007*"male"
+
+Topic 8
+0.070*"girl" + 0.040*"normal" + 0.035*"man" + 0.034*"good" + 0.028*"boy" + 0.025*"rock" + 0.021*"big" + 0.020*"woman" + 0.019*"bad" + 0.014*"money" + 0.013*"young" + 0.010*"call" + 0.010*"roll" + 0.010*"pretty" + 0.009*"buy" + 0.009*"mama" + 0.008*"blue" + 0.008*"ring" + 0.007*"bye" + 0.007*"work"
+

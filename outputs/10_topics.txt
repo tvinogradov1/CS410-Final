@@ -1,0 +1,29 @@
+Topic 0
+0.094*"love" + 0.027*"heart" + 0.019*"feel" + 0.018*"night" + 0.017*"dream" + 0.016*"give" + 0.015*"come" + 0.014*"hold" + 0.013*"world" + 0.012*"know" + 0.012*"life" + 0.011*"time" + 0.010*"eye" + 0.009*"find" + 0.008*"sun" + 0.008*"way" + 0.008*"sweet" + 0.007*"kiss" + 0.007*"hear" + 0.007*"close"
+
+Topic 1
+0.166*"come" + 0.147*"non" + 0.056*"con" + 0.022*"solo" + 0.018*"chi" + 0.017*"tempo" + 0.017*"poi" + 0.016*"pol" + 0.015*"dove" + 0.015*"fare" + 0.012*"son" + 0.011*"vita" + 0.011*"tutti" + 0.010*"era" + 0.009*"rad" + 0.009*"sin" + 0.009*"folk" + 0.008*"dire" + 0.008*"due" + 0.008*"stare"
+
+Topic 2
+0.018*"away" + 0.017*"take" + 0.011*"time" + 0.011*"feel" + 0.011*"light" + 0.011*"run" + 0.011*"eye" + 0.010*"turn" + 0.009*"look" + 0.009*"walk" + 0.009*"fall" + 0.009*"face" + 0.008*"back" + 0.008*"cold" + 0.007*"fire" + 0.007*"tear" + 0.007*"life" + 0.007*"burn" + 0.007*"fear" + 0.006*"lost"
+
+Topic 3
+0.046*"normal" + 0.037*"rock" + 0.024*"body" + 0.024*"dance" + 0.020*"move" + 0.018*"ready" + 0.017*"party" + 0.017*"beat" + 0.016*"music" + 0.015*"roll" + 0.014*"shake" + 0.014*"stop" + 0.013*"hot" + 0.012*"getting" + 0.010*"play" + 0.010*"night" + 0.009*"sound" + 0.009*"hip" + 0.008*"hand" + 0.008*"jump"
+
+Topic 4
+0.026*"man" + 0.021*"people" + 0.020*"life" + 0.019*"new" + 0.018*"old" + 0.013*"live" + 0.009*"world" + 0.009*"young" + 0.007*"born" + 0.007*"blue" + 0.007*"city" + 0.007*"free" + 0.006*"sing" + 0.006*"brother" + 0.006*"home" + 0.006*"head" + 0.006*"living" + 0.006*"two" + 0.006*"kid" + 0.006*"high"
+
+Topic 5
+0.020*"black" + 0.016*"god" + 0.014*"blood" + 0.010*"dead" + 0.010*"die" + 0.010*"white" + 0.010*"soul" + 0.008*"death" + 0.008*"mother" + 0.007*"war" + 0.006*"red" + 0.006*"father" + 0.006*"field" + 0.005*"bye" + 0.005*"son" + 0.005*"power" + 0.005*"cut" + 0.005*"human" + 0.005*"fight" + 0.005*"king"
+
+Topic 6
+0.025*"time" + 0.020*"know" + 0.019*"did" + 0.016*"thought" + 0.016*"thing" + 0.015*"say" + 0.014*"didn't" + 0.014*"think" + 0.013*"gone" + 0.011*"long" + 0.011*"made" + 0.011*"left" + 0.011*"back" + 0.011*"life" + 0.010*"way" + 0.010*"took" + 0.009*"remember" + 0.009*"told" + 0.008*"knew" + 0.008*"friend"
+
+Topic 7
+0.014*"shit" + 0.014*"fuck" + 0.012*"cause" + 0.012*"put" + 0.011*"hit" + 0.011*"back" + 0.010*"bitch" + 0.008*"real" + 0.008*"wit" + 0.007*"money" + 0.006*"big" + 0.006*"come" + 0.005*"give" + 0.005*"street" + 0.005*"keep" + 0.005*"better" + 0.005*"man" + 0.005*"two" + 0.004*"kid" + 0.004*"watch"
+
+Topic 8
+0.082*"girl" + 0.040*"good" + 0.032*"boy" + 0.019*"big" + 0.018*"woman" + 0.018*"bad" + 0.016*"look" + 0.016*"man" + 0.015*"call" + 0.015*"lady" + 0.013*"pretty" + 0.013*"ooh" + 0.012*"bit" + 0.010*"ride" + 0.008*"drink" + 0.008*"mama" + 0.008*"hair" + 0.007*"drive" + 0.007*"honey" + 0.007*"come"
+
+Topic 9
+0.076*"know" + 0.054*"make" + 0.036*"take" + 0.034*"baby" + 0.026*"say" + 0.024*"tell" + 0.023*"gotta" + 0.022*"cause" + 0.022*"feel" + 0.020*"keep" + 0.020*"way" + 0.019*"think" + 0.018*"time" + 0.017*"come" + 0.017*"right" + 0.014*"give" + 0.013*"thing" + 0.013*"try" + 0.011*"back" + 0.010*"better"

@@ -1,0 +1,12 @@
+Topic 0
+0.014*"man" + 0.011*"good" + 0.011*"old" + 0.007*"back" + 0.007*"girl" + 0.007*"new" + 0.006*"did" + 0.006*"went" + 0.006*"two" + 0.006*"took" + 0.006*"made" + 0.006*"night" + 0.006*"bad" + 0.006*"woman" + 0.006*"came" + 0.006*"home" + 0.005*"song" + 0.005*"time" + 0.005*"big" + 0.005*"left"
+
+Topic 1
+0.041*"know" + 0.036*"love" + 0.023*"make" + 0.018*"time" + 0.018*"feel" + 0.018*"take" + 0.016*"say" + 0.016*"baby" + 0.015*"come" + 0.014*"way" + 0.013*"tell" + 0.012*"thing" + 0.011*"think" + 0.011*"give" + 0.009*"keep" + 0.009*"heart" + 0.009*"cause" + 0.009*"life" + 0.008*"right" + 0.008*"girl"
+
+Topic 2
+0.009*"life" + 0.007*"world" + 0.006*"time" + 0.006*"black" + 0.006*"eye" + 0.005*"light" + 0.005*"soul" + 0.005*"away" + 0.005*"god" + 0.005*"dead" + 0.004*"fire" + 0.004*"come" + 0.004*"sun" + 0.004*"blood" + 0.004*"face" + 0.004*"take" + 0.004*"run" + 0.004*"die" + 0.004*"fall" + 0.004*"sky"
+
+Topic 3
+0.018*"come" + 0.015*"non" + 0.012*"cause" + 0.011*"make" + 0.011*"know" + 0.010*"normal" + 0.010*"shit" + 0.010*"fuck" + 0.009*"put" + 0.008*"hit" + 0.008*"back" + 0.008*"rock" + 0.007*"gotta" + 0.007*"keep" + 0.007*"bitch" + 0.007*"real" + 0.006*"big" + 0.006*"con" + 0.005*"take" + 0.005*"girl"
+
